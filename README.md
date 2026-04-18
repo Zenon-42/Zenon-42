@@ -1,6 +1,7 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJoNmdqcjhmYzl3djg2d3NpcmdlMTQ0Z2huZnVsMTZkNGJpeHA2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uJyuInRyUbjO0UTKyF/giphy.gif" width="500"/>
+  
 </p>
 
 <h1 align="center">Hey 👋, I'm Surojit</h1>
@@ -16,6 +17,8 @@
 
 ## 🧠 About Me
 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQzemN5N2RnNnhvb2kzemdrcXMyMm44aHA4bWhsdzBjbnphdmFodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="200" align="right"/>
+  
 * 🎓 Final Year Student (Graduating soon)
 * 💻 Focused on MERN Stack Development
 * 🔍 Exploring APIs, UI/UX, and real-world projects
@@ -25,6 +28,7 @@
 
 ## 🛠️ Tech Stack
 
+<img src="https://media.tenor.com/lO6HqZ3I2dIAAAAj/e.gif" align="right" width="120"/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
 </p>
@@ -35,7 +39,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
-
 
 ---
 
