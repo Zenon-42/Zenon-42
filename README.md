@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-<img align="right" src="https://komarev.com/ghpvc/?username=zenon-42&label=Profile+Views&color=2f80ed&style=flat-square" />
+<img align="right" src="https://komarev.com/ghpvc/?username=zenon-42&label=Profile+Views&color=2f80ed&style=flat-square" /><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zenon-42&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
