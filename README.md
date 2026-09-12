@@ -75,10 +75,12 @@
 ## Activity Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zenon-42&theme=react&hide_border=true&area=true&radius=8"
-    alt="GitHub Activity Graph"
-  />
+  <a href="https://github.com/zenon-42">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=zenon-42&theme=react&hide_border=true&area=true&radius=8"
+      alt="GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ---
