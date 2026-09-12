@@ -19,7 +19,7 @@
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjQzemN5N2RnNnhvb2kzemdrcXMyMm44aHA4bWhsdzBjbnphdmFodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.gif" width="200" align="right"/>
   
-* 🎓 Final Year Student (Graduating soon)
+* 🎓 B.Tech(CSE) Graduate
 * 💻 Focused on MERN Stack Development
 * 🔍 Exploring APIs, UI/UX, and real-world projects
 * 🎯 Goal: Get hired as a developer & build impactful products
