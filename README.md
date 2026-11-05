@@ -72,18 +72,6 @@
 * ⚙️ Tech
 * 🔗 Demo | 🔗 Repo](url)
 -->
-## Activity Graph
-
-<p align="center">
-  <a href="https://github.com/zenon-42">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=zenon-42&theme=react&hide_border=true&area=true&radius=8"
-      alt="GitHub Activity Graph"
-    />
-  </a>
-</p>
-
----
 
 ## 📫 Connect With Me
 
